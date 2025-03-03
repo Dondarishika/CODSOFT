@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+header, section {
+    padding: 20px;
+    margin: 10px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+header {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+}
+header h1 {
+    margin: 0;
+}
+header p {
+    font-size: 1.2em;
+    margin: 10px 0 0;
+}
+section h2 {
+    margin-top: 0;
+}
+#about img {
+    max-width: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul li {
+    background: #eee;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 8px;
+}
+.project img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+footer {
+    padding: 20px;
+    margin: 10px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(249, 248, 248, 0.1);
+    text-align: center;
+}  
